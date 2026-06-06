@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="corporate_primary">#0B1F3A</color>
+    <color name="corporate_primary_dark">#07162A</color>
+    <color name="corporate_secondary">#2563EB</color>
+    <color name="corporate_accent">#F4B400</color>
+
+    <color name="background_light">#F3F6FB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#111827</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="input_border">#CBD5E1</color>
+    <color name="input_focus">#2563EB</color>
 </resources>
